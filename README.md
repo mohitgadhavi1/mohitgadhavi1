@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">I'm a full-time engineer, mostly spinning in my chair doing tasks that AI will eventually master better than I can. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgadhavi1&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgadhavi1" /> </p>
 
