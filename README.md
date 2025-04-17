@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">I'm a full-time Engineer, mostly spinning in my chair doing tasks that AI will eventually master better than I can. (I'll update my career status after 2030) </h3>
+<h3 align="center">I'm a full-Stack Engineer, mostly spinning in my chair, Prompting AI and Try to make good Stuff. </h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgadhavi1&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgadhavi1" /> </p> -->
 
