@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgadhavi1&show_icons=true&locale=en&theme=moltack&count_private=true" alt="mohitgadhavi1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgadhavi1&theme=moltack&count_private=true" alt="mohitgadhavi1" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohitgadhavi1&theme=gruvbox-duo)](https://git.io/streak-stats)
 
   
 
