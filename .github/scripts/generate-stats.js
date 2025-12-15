@@ -40,7 +40,9 @@ async function getAllRepos() {
 
   while (hasMore) {
     const data = await githubRequest(`/user/repos?per_page=100&page=${page}&affiliation=owner,collaborator,organization_member`);
-    repos.push(...data);
+    // Filter out forked repositories
+    const nonForkedRepos = data.filter(repo => !repo.fork);
+    repos.push(...nonForkedRepos);
     hasMore = data.length === 100;
     page++;
   }
