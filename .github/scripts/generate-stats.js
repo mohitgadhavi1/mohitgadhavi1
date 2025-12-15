@@ -133,13 +133,24 @@ function calculateYearlyStats(dates) {
 // Get language statistics
 async function getLanguageStats(repos) {
   const languages = {};
+  const excludedLanguages = ['Open Policy Agent', 'SCSS', 'Scss'];
   
   for (const repo of repos) {
     try {
       const repoLangs = await githubRequest(`/repos/${repo.owner.login}/${repo.name}/languages`);
       
       for (const [lang, bytes] of Object.entries(repoLangs)) {
+        // Skip excluded languages
+        if (excludedLanguages.includes(lang)) {
+          continue;
+        }
         languages[lang] = (languages[lang] || 0) + bytes;
+      }
+      
+      // Debug logging
+      const includedLangs = Object.keys(repoLangs).filter(l => !excludedLanguages.includes(l));
+      if (includedLangs.length > 0) {
+        console.log(`${repo.name}: ${includedLangs.join(', ')}`);
       }
     } catch (error) {
       console.log(`Could not fetch languages for ${repo.name}`);
@@ -147,6 +158,15 @@ async function getLanguageStats(repos) {
   }
   
   const total = Object.values(languages).reduce((sum, bytes) => sum + bytes, 0);
+  
+  console.log('\nTotal bytes per language:');
+  Object.entries(languages)
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([lang, bytes]) => {
+      const mb = (bytes / 1024 / 1024).toFixed(2);
+      const pct = ((bytes / total) * 100).toFixed(1);
+      console.log(`  ${lang}: ${mb} MB (${pct}%)`);
+    });
   
   return Object.entries(languages)
     .map(([name, bytes]) => ({
