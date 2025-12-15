@@ -39,7 +39,7 @@ async function getAllRepos() {
   let hasMore = true;
 
   while (hasMore) {
-    const data = await githubRequest(`/user/repos?per_page=100&page=${page}&type=all&affiliation=owner,collaborator,organization_member`);
+    const data = await githubRequest(`/user/repos?per_page=100&page=${page}&affiliation=owner,collaborator,organization_member`);
     repos.push(...data);
     hasMore = data.length === 100;
     page++;
