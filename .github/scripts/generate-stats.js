@@ -66,14 +66,15 @@ function calculateStreaks(dates) {
   if (dates.length === 0) return { current: 0, longest: 0, total: 0 };
 
   const sortedDates = [...new Set(dates)].sort((a, b) => new Date(b) - new Date(a));
-  const today = new Date().toISOString().split('T')[0];
   
   let currentStreak = 0;
   let longestStreak = 0;
   let tempStreak = 0;
   
-  // Calculate current streak
+  // Calculate current streak starting from yesterday
   let checkDate = new Date();
+  checkDate.setDate(checkDate.getDate() - 1); // Start from yesterday
+  
   for (let i = 0; i < sortedDates.length; i++) {
     const dateStr = checkDate.toISOString().split('T')[0];
     if (sortedDates.includes(dateStr)) {
