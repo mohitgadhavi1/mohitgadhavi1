@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 1 days  
+**Current Streak:** 2 days  
 **Longest Streak:** 23 days  
-**Total Active Days:** 258 days
+**Total Active Days:** 259 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2025 | 139 | 297 |
+| 2025 | 140 | 298 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 161 |
 | 2022 | 17 | 31 |
@@ -38,7 +38,7 @@ Dockerfile   ░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ---
 
-*Last Updated: Sun, 28 Dec 2025 00:52:41 GMT*
+*Last Updated: Mon, 29 Dec 2025 00:50:53 GMT*
 <!-- LAST_UPDATE -->
 
 ---
