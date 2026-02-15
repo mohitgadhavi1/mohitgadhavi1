@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 0 days  
+**Current Streak:** 1 days  
 **Longest Streak:** 23 days  
-**Total Active Days:** 277 days
+**Total Active Days:** 278 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2026 | 16 | 35 |
+| 2026 | 17 | 38 |
 | 2025 | 142 | 300 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 160 |
@@ -24,14 +24,14 @@
 ### 💻 Languages Used
 <!-- LANGUAGES_START -->
 ```
-TypeScript   ████████░░░░░░░░░░░░  37.6%
-Go           ██████░░░░░░░░░░░░░░  29.4%
-JavaScript   ████░░░░░░░░░░░░░░░░  19.6%
+TypeScript   ████████░░░░░░░░░░░░  37.9%
+Go           ██████░░░░░░░░░░░░░░  29.3%
+JavaScript   ████░░░░░░░░░░░░░░░░  19.5%
 HTML         █░░░░░░░░░░░░░░░░░░░   4.7%
 PHP          █░░░░░░░░░░░░░░░░░░░   3.7%
 CSS          ░░░░░░░░░░░░░░░░░░░░   1.6%
 Shell        ░░░░░░░░░░░░░░░░░░░░   1.5%
-Python       ░░░░░░░░░░░░░░░░░░░░   1.4%
+Python       ░░░░░░░░░░░░░░░░░░░░   1.3%
 Makefile     ░░░░░░░░░░░░░░░░░░░░   0.2%
 Dockerfile   ░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
@@ -39,7 +39,7 @@ Dockerfile   ░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ---
 
-*Last Updated: Sat, 14 Feb 2026 00:57:11 GMT*
+*Last Updated: Sun, 15 Feb 2026 01:02:19 GMT*
 <!-- LAST_UPDATE -->
 
 ---
