@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 3 days  
+**Current Streak:** 4 days  
 **Longest Streak:** 23 days  
-**Total Active Days:** 304 days
+**Total Active Days:** 305 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2026 | 43 | 160 |
+| 2026 | 44 | 171 |
 | 2025 | 142 | 300 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 160 |
@@ -24,14 +24,14 @@
 ### 💻 Languages Used
 <!-- LANGUAGES_START -->
 ```
-TypeScript   ████████░░░░░░░░░░░░  41.3%
-Go           █████░░░░░░░░░░░░░░░  23.4%
-JavaScript   ███░░░░░░░░░░░░░░░░░  15.7%
-HTML         ██░░░░░░░░░░░░░░░░░░  12.3%
-PHP          █░░░░░░░░░░░░░░░░░░░   3.0%
-CSS          ░░░░░░░░░░░░░░░░░░░░   1.5%
+TypeScript   ████████░░░░░░░░░░░░  41.7%
+Go           █████░░░░░░░░░░░░░░░  22.6%
+JavaScript   ███░░░░░░░░░░░░░░░░░  15.3%
+HTML         ███░░░░░░░░░░░░░░░░░  12.9%
+PHP          █░░░░░░░░░░░░░░░░░░░   2.9%
+CSS          ░░░░░░░░░░░░░░░░░░░░   1.8%
 Shell        ░░░░░░░░░░░░░░░░░░░░   1.2%
-Python       ░░░░░░░░░░░░░░░░░░░░   1.1%
+Python       ░░░░░░░░░░░░░░░░░░░░   1.0%
 PLpgSQL      ░░░░░░░░░░░░░░░░░░░░   0.3%
 Makefile     ░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
@@ -39,7 +39,7 @@ Makefile     ░░░░░░░░░░░░░░░░░░░░   0.2%
 
 ---
 
-*Last Updated: Thu, 19 Mar 2026 01:01:58 GMT*
+*Last Updated: Fri, 20 Mar 2026 00:59:10 GMT*
 <!-- LAST_UPDATE -->
 
 ---
