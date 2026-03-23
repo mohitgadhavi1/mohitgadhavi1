@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 6 days  
+**Current Streak:** 7 days  
 **Longest Streak:** 23 days  
-**Total Active Days:** 307 days
+**Total Active Days:** 309 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2026 | 46 | 196 |
+| 2026 | 48 | 206 |
 | 2025 | 142 | 300 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 160 |
@@ -24,10 +24,10 @@
 ### 💻 Languages Used
 <!-- LANGUAGES_START -->
 ```
-TypeScript   █████████░░░░░░░░░░░  42.5%
-Go           ████░░░░░░░░░░░░░░░░  22.3%
-JavaScript   ███░░░░░░░░░░░░░░░░░  15.1%
-HTML         ███░░░░░░░░░░░░░░░░░  12.7%
+TypeScript   █████████░░░░░░░░░░░  43.0%
+Go           ████░░░░░░░░░░░░░░░░  22.1%
+JavaScript   ███░░░░░░░░░░░░░░░░░  14.9%
+HTML         ███░░░░░░░░░░░░░░░░░  12.6%
 PHP          █░░░░░░░░░░░░░░░░░░░   2.8%
 CSS          ░░░░░░░░░░░░░░░░░░░░   1.8%
 Shell        ░░░░░░░░░░░░░░░░░░░░   1.1%
@@ -39,7 +39,7 @@ Makefile     ░░░░░░░░░░░░░░░░░░░░   0.2%
 
 ---
 
-*Last Updated: Sun, 22 Mar 2026 01:02:21 GMT*
+*Last Updated: Mon, 23 Mar 2026 01:03:23 GMT*
 <!-- LAST_UPDATE -->
 
 ---
