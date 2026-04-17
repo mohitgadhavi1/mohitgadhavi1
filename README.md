@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 31 days  
-**Longest Streak:** 31 days  
-**Total Active Days:** 332 days
+**Current Streak:** 32 days  
+**Longest Streak:** 33 days  
+**Total Active Days:** 334 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2026 | 71 | 354 |
+| 2026 | 73 | 363 |
 | 2025 | 142 | 300 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 160 |
@@ -24,22 +24,22 @@
 ### 💻 Languages Used
 <!-- LANGUAGES_START -->
 ```
-TypeScript   ██████████░░░░░░░░░░  48.5%
-Go           ████░░░░░░░░░░░░░░░░  19.8%
-JavaScript   ███░░░░░░░░░░░░░░░░░  13.4%
-HTML         ██░░░░░░░░░░░░░░░░░░  11.3%
+TypeScript   ██████████░░░░░░░░░░  48.6%
+Go           ████░░░░░░░░░░░░░░░░  19.7%
+JavaScript   ███░░░░░░░░░░░░░░░░░  13.3%
+HTML         ██░░░░░░░░░░░░░░░░░░  11.2%
 PHP          █░░░░░░░░░░░░░░░░░░░   2.5%
 CSS          ░░░░░░░░░░░░░░░░░░░░   1.7%
 Shell        ░░░░░░░░░░░░░░░░░░░░   1.0%
 Python       ░░░░░░░░░░░░░░░░░░░░   0.9%
-PLpgSQL      ░░░░░░░░░░░░░░░░░░░░   0.6%
+PLpgSQL      ░░░░░░░░░░░░░░░░░░░░   0.7%
 Dockerfile   ░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 <!-- LANGUAGES_END -->
 
 ---
 
-*Last Updated: Thu, 16 Apr 2026 01:16:53 GMT*
+*Last Updated: Fri, 17 Apr 2026 01:14:25 GMT*
 <!-- LAST_UPDATE -->
 
 ---
