@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 31 days  
-**Longest Streak:** 31 days  
-**Total Active Days:** 352 days
+**Current Streak:** 32 days  
+**Longest Streak:** 32 days  
+**Total Active Days:** 353 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2026 | 91 | 444 |
+| 2026 | 92 | 447 |
 | 2025 | 142 | 300 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 160 |
@@ -24,10 +24,10 @@
 ### 💻 Languages Used
 <!-- LANGUAGES_START -->
 ```
-TypeScript   ███████████░░░░░░░░░  53.5%
-Go           ████░░░░░░░░░░░░░░░░  17.7%
+TypeScript   ███████████░░░░░░░░░  53.7%
+Go           ████░░░░░░░░░░░░░░░░  17.6%
 JavaScript   ██░░░░░░░░░░░░░░░░░░  12.0%
-HTML         ██░░░░░░░░░░░░░░░░░░  10.6%
+HTML         ██░░░░░░░░░░░░░░░░░░  10.5%
 PHP          ░░░░░░░░░░░░░░░░░░░░   2.2%
 CSS          ░░░░░░░░░░░░░░░░░░░░   1.6%
 Shell        ░░░░░░░░░░░░░░░░░░░░   0.9%
@@ -39,7 +39,7 @@ Dockerfile   ░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ---
 
-*Last Updated: Sat, 09 May 2026 01:27:56 GMT*
+*Last Updated: Sun, 10 May 2026 01:29:12 GMT*
 <!-- LAST_UPDATE -->
 
 ---
