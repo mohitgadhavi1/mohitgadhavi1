@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 22 days  
+**Current Streak:** 23 days  
 **Longest Streak:** 23 days  
-**Total Active Days:** 381 days
+**Total Active Days:** 380 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2026 | 120 | 459 |
+| 2026 | 119 | 459 |
 | 2025 | 142 | 300 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 160 |
@@ -24,10 +24,10 @@
 ### 💻 Languages Used
 <!-- LANGUAGES_START -->
 ```
-TypeScript   ████████████░░░░░░░░  59.0%
-Go           ███░░░░░░░░░░░░░░░░░  15.1%
+TypeScript   ████████████░░░░░░░░  59.1%
+Go           ███░░░░░░░░░░░░░░░░░  15.0%
 JavaScript   ██░░░░░░░░░░░░░░░░░░  10.4%
-HTML         ██░░░░░░░░░░░░░░░░░░   9.2%
+HTML         ██░░░░░░░░░░░░░░░░░░   9.1%
 PHP          ░░░░░░░░░░░░░░░░░░░░   1.9%
 CSS          ░░░░░░░░░░░░░░░░░░░░   1.4%
 PLpgSQL      ░░░░░░░░░░░░░░░░░░░░   1.4%
@@ -39,7 +39,7 @@ Makefile     ░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ---
 
-*Last Updated: Thu, 25 Jun 2026 01:56:14 GMT*
+*Last Updated: Fri, 26 Jun 2026 01:57:36 GMT*
 <!-- LAST_UPDATE -->
 
 ---
