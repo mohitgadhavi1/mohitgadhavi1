@@ -4,16 +4,16 @@
 
 ### 🔥 Contribution Streak
 <!-- STREAK_START -->
-**Current Streak:** 3 days  
+**Current Streak:** 4 days  
 **Longest Streak:** 23 days  
-**Total Active Days:** 405 days
+**Total Active Days:** 404 days
 <!-- STREAK_END -->
 
 ### 📅 Year-wise Activity
 <!-- YEARLY_START -->
 | Year | Active Days | Contributions |
 |------|-------------|---------------|
-| 2026 | 144 | 536 |
+| 2026 | 143 | 541 |
 | 2025 | 142 | 300 |
 | 2024 | 49 | 81 |
 | 2023 | 48 | 160 |
@@ -25,11 +25,11 @@
 <!-- LANGUAGES_START -->
 ```
 TypeScript   ████████████████░░░░  78.8%
-Go           █░░░░░░░░░░░░░░░░░░░   5.6%
+Go           █░░░░░░░░░░░░░░░░░░░   5.5%
 JavaScript   █░░░░░░░░░░░░░░░░░░░   4.6%
 HTML         █░░░░░░░░░░░░░░░░░░░   4.5%
 PLpgSQL      █░░░░░░░░░░░░░░░░░░░   3.2%
-Dart         ░░░░░░░░░░░░░░░░░░░░   1.3%
+Dart         ░░░░░░░░░░░░░░░░░░░░   1.2%
 PHP          ░░░░░░░░░░░░░░░░░░░░   0.7%
 CSS          ░░░░░░░░░░░░░░░░░░░░   0.6%
 Shell        ░░░░░░░░░░░░░░░░░░░░   0.3%
@@ -39,7 +39,7 @@ Python       ░░░░░░░░░░░░░░░░░░░░   0.3%
 
 ---
 
-*Last Updated: Thu, 19 Nov 2026 04:39:28 GMT*
+*Last Updated: Fri, 20 Nov 2026 04:29:57 GMT*
 <!-- LAST_UPDATE -->
 
 ---
